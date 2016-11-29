@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+  font-family: cursive;
+}
+
+p {
+  color: orange;
+}
+
+body {
+  background-color: yellow;
+}
+
+/*a {
+  font-family: cursive;
+}
+
+a:visited {
+  background-color: blue;
+}*/
